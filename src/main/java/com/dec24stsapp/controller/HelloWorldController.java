@@ -10,6 +10,6 @@ public class HelloWorldController {
 	@GetMapping("/message")
 	
 	public String getName() {
-		return "hele da mapla";
+		return "hele da mapla bengaluru";
 	}
 }
